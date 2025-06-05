@@ -7,7 +7,7 @@
 - 👀 Я всё ещё учусь, но уже пишу код, за который не стыдно (иногда).
 - 📎 Сейчас активно ищу работу. [Вот мое резюме](https://rostov.hh.ru/resume/a5bdce18ff0eecb2e40039ed1f35344b30414e 'hh.ru')
 
-<h2 align='center'>📮<em>My contacts</em></h2>
+<h2 align='center'>📮 <em>My contacts</em></h2>
 <p align="center">
   <a href="mailto:valerasan19@gmail.com">valerasan19@gmail.com</a>
 </p>
