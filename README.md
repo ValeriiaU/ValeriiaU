@@ -8,8 +8,15 @@
 - 📎 Сейчас активно ищу работу. [Вот мое резюме](https://rostov.hh.ru/resume/a5bdce18ff0eecb2e40039ed1f35344b30414e 'hh.ru')
 
 <h2 align='center'>📮<em>My contacts</em></h2>
-<a align='center'>[](valerasan19@gmail.com)</a>
-<a align='center'>[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Valery761)</a>
+<p align="center">
+  <a href="mailto:valerasan19@gmail.com">valerasan19@gmail.com</a>
+</p>
+
+<p align="center">
+  <a href="https://t.me/Valery761">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
 
 
 <!--
